@@ -118,4 +118,6 @@ public class HelloController {
         }
         return formatted;
     }
+
+    public void hello(){}
 }
